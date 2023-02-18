@@ -2,29 +2,31 @@
   <img src="https://github.com/butlerc9/Docker-Data-Science/blob/main/images/readme/vertical-logo-monochromatic.webp" width="200" title="hover text">
 </p>
 
-<h3 align="center">Docker Data Science</h3>
-
-
+<h3 align="center">Dublin Air Quality Hackathon</h3>
 
 ---
 
-<p align="center"> Docker-Data-Science is a template repository for python data science/ml/stats projects. This template is beginner friendly, configurable and can allow anybody to start creating, building and sharing their projects in a reproducible and deployable form.</p>
-
-
+<p align="center">This is our repo for our shared analysis, this will include links to all data and a link to JupyterHub.</p>
 
 ## 📝 Table of Contents
-- [About](#about)
+- [Prerequisites](#getting started)
 - [Getting Started](#getting_started)
 - [Authors](#authors)
 
-## 🧐 About <a name = "about"></a>
+## 🧐 Prerequisites <a name = "Prerequisites"></a>
 
-Docker data science provides a development environment that is organised, reproducible and flexible. The repository has the following primary functionalities:
-- A ready to run docker container built from the <a href = 'https://github.com/jupyter/docker-stacks/'>Jupyter Docker Stacks</a> with pre-installed python packages
-- An organised folder structure for data science projects
-- Pre-made jupyter notebooks for data exploration, regression and modelling
+1. Install git and clone this repo
+2. Install docker
+3. Start docker and navigate to this repo on your computer via terminal e.g. git bash or powershell
+4. Run command "docker compose up"
+5. In your terminal there will be a url similar to:
+```
+  airquality_hackathon_2023-data_science_container-1  |         http://cd4b6e099fea:8888/lab?token=06a17014f4873287007fb090df9c10da375ad0b3f1c46d45
+  airquality_hackathon_2023-data_science_container-1  |      or http://127.0.0.1:8888/lab?token=06a17014f4873287007fb090df9c10da375ad0b3f1c46d45
+```
+6. If you go to this url in your browser you can access Jupyter
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 Downloading Datasets <a name = "getting_started"></a>
 
 ### Prerequisites
 
