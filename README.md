@@ -9,7 +9,7 @@
 <p align="center">This is our repo for our shared analysis, this will include links to all data and a link to JupyterHub.</p>
 
 ## 📝 Table of Contents
-- [Prerequisites](#getting started)
+- [Prerequisites](#prerequisites)
 - [Getting Started](#getting_started)
 - [Authors](#authors)
 
