@@ -28,12 +28,6 @@
 
 ## 🏁 Downloading Datasets <a name = "getting_started"></a>
 
-### Prerequisites
+You then need to download the datasets and put them in the "/data/raw/" folder in this repository.
 
-The only prerequisites to start coding are
-
-1. An installation of <a href = 'https://www.docker.com/'>docker</a>
-2. Any web browser OR text editor/ide with Jupyter support
-
-## ✍️ Authors <a name = "authors"></a>
-- [@butlerc9](https://github.com/butlerc9) - Idea & Initial work
+The files can be found here: https://data.gov.ie/dataset/google-airview-data-dublin-city
