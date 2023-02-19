@@ -18,6 +18,7 @@
 1. Install git and clone this repo
 2. Install docker
 3. Start docker and navigate to this repo on your computer via terminal e.g. git bash or powershell
+4. Build the docker image using your terminal by typing ```docker build -t butlerc9/air_quality_jupyter``` (this building will take a few minutes)
 4. Run command "docker compose up"
 5. In your terminal there will be a url similar to:
 ```
