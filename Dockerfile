@@ -17,6 +17,6 @@ RUN mamba install --quiet --yes \
     'pillow' \
     'pysal' \
     'rtree' \
+    'pandas-profiling' \
     'plotly' && \
-    pip install popmon && \
     mamba clean --all -f -y
