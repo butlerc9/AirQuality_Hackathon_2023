@@ -18,5 +18,6 @@ RUN mamba install --quiet --yes \
     'pysal' \
     'rtree' \
     'pandas-profiling' \
+    'openpyxl'\
     'plotly' && \
     mamba clean --all -f -y
