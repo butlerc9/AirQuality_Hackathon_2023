@@ -1,0 +1,30 @@
+road_id      unique road segment ID
+the_geom     road segment linestring
+osm_id       OSM road ID
+osm_code     OSM code
+osm_fclass   OSM fclass / road-type
+osm_name     OSM road name
+osm_ref      OSM road ref
+osm_oneway   OSM road metadata
+osm_maxspeed OSM road metadata
+osm_layer    OSM road metadata
+osm_bridge   OSM road metadata
+osm_tunnel   OSM road metadata
+NO2points    number of measurements on this road segment
+NO2drives    number of drive passes on this road segment
+NO2_ugm3     NO2 concentration (median of drive pass mean) in Âµg/m3
+NOpoints     number of measurements on this road segment
+NOdrives     number of drive passes on this road segment
+NO_ugm3      NO concentration (median of drive pass mean) in Âµg/m3
+CO2points    number of measurements on this road segment
+CO2drives    number of drive passes on this road segment
+CO2_mgm3     CO2 concentration (median of drive pass mean) in mg/m3
+COpoints     number of measurements on this road segment
+COdrives     number of drive passes on this road segment
+CO_mgm3      CO concentration (median of drive pass mean) in mg/m3
+O3points     number of measurements on this road segment
+O3drives     number of drive passes on this road segment
+O3_ugm3      O3 concentration (median of drive pass mean) in Âµg/m3
+PM25points   number of measurements on this road segment
+PM25drives   number of drive passes on this road segment
+PM25_ugm3    PM2.5 concentration (median of drive pass mean) in Âµg/m3

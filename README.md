@@ -32,3 +32,8 @@
 You then need to download the datasets and put them in the "/data/raw/" folder in this repository.
 
 The files can be found here: https://data.gov.ie/dataset/google-airview-data-dublin-city
+
+## Connecting to API
+
+1. Create a .env file in your root directory
+2. Include one line for any api keys or variables that you need ```GOOGLE_API_KEY=<your key here>```

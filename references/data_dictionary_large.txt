@@ -1,0 +1,15 @@
+gps_timestamp GPS Timestamp in UTC
+latitude      GPS position
+longitude     GPS position
+NO_ugm3       NO concentration in Âµg/m3
+NO2_ugm3      NO2 concentration in Âµg/m3
+O3_ugm3       O3 concentration in Âµg/m3
+CO_mgm3       CO concentration in mg/m3
+CO2_mgm3      CO2 concentration in mg/m3
+PMch1_perL    PM channel 1 measurement in counts per litre
+PMch2_perL    PM channel 2 measurement in counts per litre
+PMch3_perL    PM channel 3 measurement in counts per litre
+PMch4_perL    PM channel 4 measurement in counts per litre
+PMch5_perL    PM channel 5 measurement in counts per litre
+PMch6_perL    PM channel 6 measurement in counts per litre
+PM25_ugm3     PM2.5 concentration in Âµg/m3
