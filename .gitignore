@@ -179,4 +179,4 @@ pyenv
 Vagrantfile
 
 # Ignore data sources
-data/
+data/raw/
